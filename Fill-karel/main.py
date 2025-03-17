@@ -5,9 +5,6 @@ def main():
     starting to write your own code. You should also delete this
     comment and replace it with a better, more descriptive one.
     """
-   # move_and_put()
-    #come_back_karel()
-    #check_above_line()
     put_all()
 
 def put_all():
@@ -28,7 +25,6 @@ def trun_right():
 def move_and_put():
     while front_is_clear():
         put_beeper()
-        #if front_is_clear():
         move()
     put_beeper()
 
