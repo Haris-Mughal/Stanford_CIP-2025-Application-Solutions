@@ -1,0 +1,23 @@
+Tell us a little about yourself:
+
+I'm a third-year Computer Science student and a proud international hackathon winner. I contributed to the frontend development for our hackathon project ARMS, an AI-powered survival system for space and disaster management, where I designed the user interface and improved the user experience, which played a key role in our success.
+
+In my free time, I enjoy playing cricket and working on personal coding projects that challenge me and help me learn new skills. I’ve always been interested in solving complex problems and building creative solutions. My ability to think critically under pressure and collaborate with others has been a key strength in both hackathons and real-world projects. As in my last Lablab.ai hackathon, I initially joined a team but couldn’t get a response from the team lead even after the hack had started. Instead of giving up, I created my own team and quickly started working on a new idea. Even though we started late, I stayed focused, led the project, and managed to complete it successfully, a proud moment for me!
+
+I solve problems on LeetCode to sharpen my problem-solving skills. I’ve also actively participated in various hackathons and coding competitions, which have helped me grow both technically and creatively.
+
+
+—
+
+
+What programming experience do you have?
+
+I have over three years of programming experience. Yes, I have worked with Python, especially while solving over 180 problems on LeetCode, which has strengthened my coding and problem-solving skills. One of my favorite problems is the "Two Sum" problem because it helped me understand how to efficiently use hash maps to solve array-related challenges. This has strengthened my understanding of algorithms and improved my problem-solving approach.
+
+
+—
+
+
+What teaching experience do you have?
+
+I have taught Python and Data Structures and Algorithms (DSA) to underprivileged students in a training session. I helped them understand coding concepts with simple examples, such as I explained the concept of loops by asking them to create a star pattern, which made it easier for them to understand how loops work and I used the factorial problem to explain recursion step-by-step, which helped them grasp the idea more clearly. I also used LeetCode problems to improve their problem-solving skills. This experience improved my communication skills and made it easier for me to explain difficult ideas in a simple way.
