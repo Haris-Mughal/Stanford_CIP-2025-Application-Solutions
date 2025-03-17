@@ -1,0 +1,24 @@
+--- Karel Debugging ---
+
+1- Some problems in the code include:
+- After moving to the next row, Karel is facing the wrong way, so it won’t be able to pick up beepers in the second row properly.
+- Karel might miss the last beeper in the row if it reaches a wall.
+- The way Karel moves between rows doesn’t adjust its direction correctly for picking up beepers in the next row.
+
+2- Advice to the student:
+- After switching rows, make sure Karel turns to face the right direction before starting to pick up beepers again.
+- Try adding a check at the end of pick_row() to pick up any beeper Karel might miss at the last step.
+- Run the code step-by-step and watch how Karel behaves, this will help you figure out where it's getting stuck and fix the turning issues.
+
+
+--- Console Debugging ---
+
+1- Some problems in the code include:
+- The remove_keys_containing_string() function creates a new dictionary but does not update the original dictionary, so the changes are lost.
+- After filtering the keys, the original dictionary should be updated or reassigned to reflect the changes.
+- The logic for checking and removing keys is correct, but the result is not applied to the original dictionary.
+
+2- Advice to the student:
+- After creating the new_dictionary, you need to update the original dictionary with the new one to keep the changes.
+- Try assigning dictionary.clear() and then updating it with new_dictionary to make sure the changes persist.
+- Test the code with different examples to confirm that the keys are properly removed, adding some print statements might help you see what’s happening step-by-step.
